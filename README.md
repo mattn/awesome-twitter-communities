@@ -16,7 +16,6 @@
 |PHP-ja|Programming Language|Japanese|https://twitter.com/i/communities/1497741277789835264|
 |Java|Programming Language|Japanese|https://twitter.com/i/communities/1497219281079398402|
 |.NET_Japan|Programming Language|Japanese|https://twitter.com/i/communities/1496977662640009217|
-|TypeScript|Programming Language|Japanese|https://twitter.com/i/communities/1499329858178289664|
 |dotnet|Programming Language|English|https://twitter.com/i/communities/1488624124817666051|
 |F# on Twitter|Programming Language|English|https://twitter.com/i/communities/1493280005589196801|
 |clojure|Programming Language|English|https://twitter.com/i/communities/1494013093059432451|
@@ -47,3 +46,6 @@
 |バンクーバー日本人ソフトウェアエンジニア|Etc|Japanese|https://twitter.com/i/communities/1498574247895056384|
 |鹿児島ITエンジニア|Etc|Japanese|https://twitter.com/i/communities/1496763936682954752|
 |sudo-jp|Etc|Japanese|https://twitter.com/i/communities/1499227044982374401|
+|JMUG|Etc|Japanese|https://twitter.com/i/communities/1498585537527320577|
+|DATA Saber|Etc|Japanese|https://twitter.com/i/communities/1498660583415361536|
+
