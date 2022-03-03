@@ -25,6 +25,7 @@
 |プログラミング言語処理系|Programming Language|Japanese|https://twitter.com/i/communities/1499381283864342530|
 |Julia言語|Programming Language|Japanese|https://twitter.com/i/communities/1499390501467811845|
 |Julia Programming Language|Programming Language|English|https://twitter.com/i/communities/1441046367514755082|
+|C++|Programming Language|Japanese|https://twitter.com/i/communities/1499396722514345984|
 |SATySFi|Tools/Libraries|Japanese|https://twitter.com/i/communities/1498074334619123712|
 |Svelte日本|Tools/Libraries|Japanese|https://twitter.com/i/communities/1499182207491260424|
 |Ebiten|Tools/Libraries|Japanese|https://twitter.com/i/communities/1498350105346600960|
