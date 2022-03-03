@@ -25,8 +25,8 @@
 |Kubernetes & コンテナ技術|Container|Japanese|https://twitter.com/i/communities/1498974495989956614|
 |vyosjp|OS|Japanese|https://twitter.com/i/communities/1498101007733370880|
 |Security Engineering|Security|Japanese|https://twitter.com/i/communities/1498138021723467781|
-|WebRTC|通信技術|English|https://twitter.com/i/communities/1498133315164860419|
-|Tech Twitter|その他|English|https://twitter.com/i/communities/1472105760389668865|
+|WebRTC|Communication technology|English|https://twitter.com/i/communities/1498133315164860419|
+|Tech Twitter|Etc|English|https://twitter.com/i/communities/1472105760389668865|
 |UdonCreatorCommunity|Etc|Japanese|https://twitter.com/i/communities/1497068375553765378|
 |日本のウェブフォームを良くする開発者の会|Etc|Japanese|https://twitter.com/i/communities/1498168121336614916|
 |吉祥寺.pm|Etc|Japanese|https://twitter.com/i/communities/1498106494989967363|
