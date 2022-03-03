@@ -56,3 +56,4 @@
 |JMUG|Etc|Japanese|https://twitter.com/i/communities/1498585537527320577|
 |DATA Saber|Etc|Japanese|https://twitter.com/i/communities/1498660583415361536|
 |IE11を偲ぶ会|Etc|Japanese|https://twitter.com/i/communities/1498870842784043009|
+|Japan Okta User Group|Etc|Japanese|https://twitter.com/i/communities/1498432461839036418|
