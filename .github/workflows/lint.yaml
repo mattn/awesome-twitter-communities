@@ -1,6 +1,11 @@
 name: markdown-lint
 on:
   push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
   lint-changelog:
