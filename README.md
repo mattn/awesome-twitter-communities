@@ -45,7 +45,6 @@
 |日本のウェブフォームを良くする開発者の会|Etc|Japanese|https://twitter.com/i/communities/1498168121336614916|
 |吉祥寺.pm|Etc|Japanese|https://twitter.com/i/communities/1498106494989967363|
 |SREとかObservabilityとか|Etc|Japanese|https://twitter.com/i/communities/1498088713670172675|
-|プログラマー界隈@育児|Etc|Japanese|https://twitter.com/i/communities/1498484033491456000|
 |ITエンジニアを褒める会|Etc|Japanese|https://twitter.com/i/communities/1494319842585083906|
 |ガジェット|Etc|Japanese|https://twitter.com/i/communities/1498224086652121099|
 |ウェブパフォーマンス|Etc|Japanese|https://twitter.com/i/communities/1498089387422515202|
