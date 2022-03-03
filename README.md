@@ -35,4 +35,5 @@
 |ITエンジニアを褒める会|Etc|Japanese|https://twitter.com/i/communities/1494319842585083906|
 |ガジェット|Etc|Japanese|https://twitter.com/i/communities/1498224086652121099|
 |ウェブパフォーマンス|Etc|Japanese|https://twitter.com/i/communities/1498089387422515202|
+|Twitter Developers Japan|Etc|Japanese|https://twitter.com/i/communities/1493041080077795328|
 
