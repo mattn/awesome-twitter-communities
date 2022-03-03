@@ -1,5 +1,7 @@
 # Awesome Twitter Communities for Engineers
 
+[![Build Status](https://github.com/mattn/awesome-twitter-communities/actions/workflows/lint.yaml/badge.svg?branch=main)](https://github.com/mattn/awesome-twitter-communities/actions/workflows/lint.yaml?query=branch%3Amain)
+
 |Name|Category|Language|URL|
 |-|-|-|-|
 |vim-jp|Text Editor|Japanese|https://twitter.com/i/communities/1497961032404594691|
