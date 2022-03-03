@@ -44,3 +44,4 @@
 |Twitter Developers Japan|Etc|Japanese|https://twitter.com/i/communities/1493041080077795328|
 |バンクーバー日本人ソフトウェアエンジニア|Etc|Japanese|https://twitter.com/i/communities/1498574247895056384|
 |鹿児島ITエンジニア|Etc|Japanese|https://twitter.com/i/communities/1496763936682954752|
+|IE11を偲ぶ会|Etc|Japanese|https://twitter.com/i/communities/1498870842784043009|
