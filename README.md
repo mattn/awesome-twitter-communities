@@ -20,6 +20,8 @@
 |dotnet|Programming Language|English|https://twitter.com/i/communities/1488624124817666051|
 |F# on Twitter|Programming Language|English|https://twitter.com/i/communities/1493280005589196801|
 |clojure|Programming Language|English|https://twitter.com/i/communities/1494013093059432451|
+|elixir|Programming Language|English|https://twitter.com/i/communities/1493287155942232066|
+|elixir-jp|Programming Language|Japanese|https://twitter.com/i/communities/1498232167864082435|
 |SATySFi|Tools/Libraries|Japanese|https://twitter.com/i/communities/1498074334619123712|
 |Svelte日本|Tools/Libraries|Japanese|https://twitter.com/i/communities/1499182207491260424|
 |Ebiten|Tools/Libraries|Japanese|https://twitter.com/i/communities/1498350105346600960|
