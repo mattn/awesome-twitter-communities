@@ -16,6 +16,7 @@
 |PHP-ja|Programming Language|Japanese|https://twitter.com/i/communities/1497741277789835264|
 |Java|Programming Language|Japanese|https://twitter.com/i/communities/1497219281079398402|
 |.NET_Japan|Programming Language|Japanese|https://twitter.com/i/communities/1496977662640009217|
+|TypeScript|Programming Language|Japanese|https://twitter.com/i/communities/1499329858178289664|
 |dotnet|Programming Language|English|https://twitter.com/i/communities/1488624124817666051|
 |F# on Twitter|Programming Language|English|https://twitter.com/i/communities/1493280005589196801|
 |clojure|Programming Language|English|https://twitter.com/i/communities/1494013093059432451|
@@ -23,6 +24,7 @@
 |Ebiten|Tools/Libraries|Japanese|https://twitter.com/i/communities/1498350105346600960|
 |Jotai Friends JP|Tools/Libraries|Japanese|https://twitter.com/i/communities/1497150937806213120|
 |Nuxt|Tools/Libraries|English|https://twitter.com/i/communities/1498235047194808320|
+|Flutter|Tools/Libraries|English|https://twitter.com/i/communities/1472249315724771329|
 |MySQL-JP|Database|Japanese|https://twitter.com/i/communities/1496795585982382084|
 |自作DBMS友の会|Database|Japanese|https://twitter.com/i/communities/1498114917672505344|
 |NewSQL_jp|Database|Japanese|https://twitter.com/i/communities/1498603867285581824|
@@ -44,4 +46,5 @@
 |Twitter Developers Japan|Etc|Japanese|https://twitter.com/i/communities/1493041080077795328|
 |バンクーバー日本人ソフトウェアエンジニア|Etc|Japanese|https://twitter.com/i/communities/1498574247895056384|
 |鹿児島ITエンジニア|Etc|Japanese|https://twitter.com/i/communities/1496763936682954752|
+|sudo-jp|Etc|Japanese|https://twitter.com/i/communities/1499227044982374401|
 |IE11を偲ぶ会|Etc|Japanese|https://twitter.com/i/communities/1498870842784043009|
