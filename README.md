@@ -19,6 +19,7 @@
 |dotnet|Programming Language|English|https://twitter.com/i/communities/1488624124817666051|
 |F# on Twitter|Programming Language|English|https://twitter.com/i/communities/1493280005589196801|
 |clojure|Programming Language|English|https://twitter.com/i/communities/1494013093059432451|
+|SATySFi|Typesetting System|Japanese|https://twitter.com/i/communities/1498074334619123712|
 |Svelte日本|Tools/Libraries|Japanese|https://twitter.com/i/communities/1499182207491260424|
 |Ebiten|Tools/Libraries|Japanese|https://twitter.com/i/communities/1498350105346600960|
 |Jotai Friends JP|Tools/Libraries|Japanese|https://twitter.com/i/communities/1497150937806213120|
@@ -46,3 +47,4 @@
 |バンクーバー日本人ソフトウェアエンジニア|Etc|Japanese|https://twitter.com/i/communities/1498574247895056384|
 |鹿児島ITエンジニア|Etc|Japanese|https://twitter.com/i/communities/1496763936682954752|
 |sudo-jp|Etc|Japanese|https://twitter.com/i/communities/1499227044982374401|
+
