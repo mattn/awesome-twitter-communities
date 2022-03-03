@@ -46,3 +46,5 @@
 |バンクーバー日本人ソフトウェアエンジニア|Etc|Japanese|https://twitter.com/i/communities/1498574247895056384|
 |鹿児島ITエンジニア|Etc|Japanese|https://twitter.com/i/communities/1496763936682954752|
 |sudo-jp|Etc|Japanese|https://twitter.com/i/communities/1499227044982374401|
+|elixir|Programming Language|English|https://twitter.com/i/communities/1493287155942232066|
+|elixir-jp|Programming Language|Japanese|https://twitter.com/i/communities/1498232167864082435|
