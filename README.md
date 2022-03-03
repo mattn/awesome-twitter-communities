@@ -16,6 +16,7 @@
 |PHP-ja|Programming Language|Japanese|https://twitter.com/i/communities/1497741277789835264|
 |Java|Programming Language|Japanese|https://twitter.com/i/communities/1497219281079398402|
 |.NET_Japan|Programming Language|Japanese|https://twitter.com/i/communities/1496977662640009217|
+|TypeScript|Programming Language|Japanese|https://twitter.com/i/communities/1499329858178289664|
 |dotnet|Programming Language|English|https://twitter.com/i/communities/1488624124817666051|
 |F# on Twitter|Programming Language|English|https://twitter.com/i/communities/1493280005589196801|
 |clojure|Programming Language|English|https://twitter.com/i/communities/1494013093059432451|
