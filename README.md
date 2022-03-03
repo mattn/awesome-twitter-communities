@@ -50,6 +50,7 @@
 |バンクーバー日本人ソフトウェアエンジニア|Etc|Japanese|https://twitter.com/i/communities/1498574247895056384|
 |鹿児島ITエンジニア|Etc|Japanese|https://twitter.com/i/communities/1496763936682954752|
 |sudo-jp|Etc|Japanese|https://twitter.com/i/communities/1499227044982374401|
+|nlp-jp|Etc|Japanese|https://twitter.com/i/communities/1498287599928365062|
 |JMUG|Etc|Japanese|https://twitter.com/i/communities/1498585537527320577|
 |DATA Saber|Etc|Japanese|https://twitter.com/i/communities/1498660583415361536|
 |IE11を偲ぶ会|Etc|Japanese|https://twitter.com/i/communities/1498870842784043009|
