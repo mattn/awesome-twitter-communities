@@ -3,6 +3,7 @@
 |Name|Category|Language|URL|
 |-|-|-|-|
 |vim-jp|Text Editor|Japanese|https://twitter.com/i/communities/1497961032404594691|
+|emacs-jp|Text Editor|Japanese|https://twitter.com/i/communities/1498276712034947072|
 |VS Codeの会|Text Editor|Japanese|https://twitter.com/i/communities/1498865559353511941|
 |プログラミング言語Go|Programming Language|Japanese|https://twitter.com/i/communities/1498095077222400000|
 |The Go Programming Language|Programming Language|English|https://twitter.com/i/communities/1493637136502960134|
