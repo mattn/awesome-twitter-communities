@@ -37,6 +37,7 @@
 |Security Engineering|Security|Japanese|https://twitter.com/i/communities/1498138021723467781|
 |WebRTC|Communication technology|English|https://twitter.com/i/communities/1498133315164860419|
 |AWS|Cloud Infrastructure|English|https://twitter.com/i/communities/1471503983839567878|
+|OSS 日本語 L10n|Localization|Japanese|https://twitter.com/i/communities/1498961283546157061|
 |Tech Twitter|Etc|English|https://twitter.com/i/communities/1472105760389668865|
 |UdonCreatorCommunity|Etc|Japanese|https://twitter.com/i/communities/1497068375553765378|
 |日本のウェブフォームを良くする開発者の会|Etc|Japanese|https://twitter.com/i/communities/1498168121336614916|
@@ -54,4 +55,3 @@
 |JMUG|Etc|Japanese|https://twitter.com/i/communities/1498585537527320577|
 |DATA Saber|Etc|Japanese|https://twitter.com/i/communities/1498660583415361536|
 |IE11を偲ぶ会|Etc|Japanese|https://twitter.com/i/communities/1498870842784043009|
-|OSS 日本語 L10n|L10n|Japanese|https://twitter.com/i/communities/1498961283546157061|
