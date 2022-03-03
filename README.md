@@ -20,6 +20,7 @@
 |dotnet|Programming Language|English|https://twitter.com/i/communities/1488624124817666051|
 |F# on Twitter|Programming Language|English|https://twitter.com/i/communities/1493280005589196801|
 |clojure|Programming Language|English|https://twitter.com/i/communities/1494013093059432451|
+|SATySFi|Tools/Libraries|Japanese|https://twitter.com/i/communities/1498074334619123712|
 |Svelte日本|Tools/Libraries|Japanese|https://twitter.com/i/communities/1499182207491260424|
 |Ebiten|Tools/Libraries|Japanese|https://twitter.com/i/communities/1498350105346600960|
 |Jotai Friends JP|Tools/Libraries|Japanese|https://twitter.com/i/communities/1497150937806213120|
