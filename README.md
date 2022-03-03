@@ -20,6 +20,7 @@
 |Svelte日本|Tools/Libraries|Japanese|https://twitter.com/i/communities/1499182207491260424|
 |Ebiten|Tools/Libraries|Japanese|https://twitter.com/i/communities/1498350105346600960|
 |Jotai Friends JP|Tools/Libraries|Japanese|https://twitter.com/i/communities/1497150937806213120|
+|Nuxt|Tools/Libraries|English|https://twitter.com/i/communities/1498235047194808320|
 |MySQL-JP|Database|Japanese|https://twitter.com/i/communities/1496795585982382084|
 |自作DBMS友の会|Database|Japanese|https://twitter.com/i/communities/1498114917672505344|
 |NewSQL_jp|Database|Japanese|https://twitter.com/i/communities/1498603867285581824|
