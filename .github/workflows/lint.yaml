@@ -1,3 +1,7 @@
+name: markdown-lint
+on:
+  push:
+
 jobs:
   lint-changelog:
     name: Lint README.md file
