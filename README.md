@@ -12,6 +12,7 @@
 |NewSQL_jp|Database|Japanese|<https://twitter.com/i/communities/1498603867285581824>|
 |自作DBMS友の会|Database|Japanese|<https://twitter.com/i/communities/1498114917672505344>|
 |OSS 日本語 L10n|Localization|Japanese|<https://twitter.com/i/communities/1498961283546157061>|
+|nlp-jp|Machine Learning|Japanese|<https://twitter.com/i/communities/1498287599928365062>|
 |ネットワーク自動化|Networking|Japanese|<https://twitter.com/i/communities/1498540422154821633>|
 |Linuxカーネル|OS|Japanese|<https://twitter.com/i/communities/1499543572189618176>|
 |vyosjp|OS|Japanese|<https://twitter.com/i/communities/1498101007733370880>|
@@ -49,6 +50,7 @@
 |SATySFi|Tools/Libraries|Japanese|<https://twitter.com/i/communities/1498074334619123712>|
 |Spring Developers|Tools/Libraries|English|<https://twitter.com/i/communities/1496544801533091844>|
 |Svelte日本|Tools/Libraries|Japanese|<https://twitter.com/i/communities/1499182207491260424>|
+|sudo-jp|Tools/Libraries|Japanese|<https://twitter.com/i/communities/1499227044982374401>|
 |DATA Saber|Etc|Japanese|<https://twitter.com/i/communities/1498660583415361536>|
 |IE11を偲ぶ会|Etc|Japanese|<https://twitter.com/i/communities/1498870842784043009>|
 |ITエンジニアを褒める会|Etc|Japanese|<https://twitter.com/i/communities/1494319842585083906>|
@@ -59,8 +61,6 @@
 |Tech Twitter - Japan|Etc|Japanese|<https://twitter.com/i/communities/1494649689215737856>|
 |Twitter Developers Japan|Etc|Japanese|<https://twitter.com/i/communities/1493041080077795328>|
 |UdonCreatorCommunity|Etc|Japanese|<https://twitter.com/i/communities/1497068375553765378>|
-|nlp-jp|Etc|Japanese|<https://twitter.com/i/communities/1498287599928365062>|
-|sudo-jp|Etc|Japanese|<https://twitter.com/i/communities/1499227044982374401>|
 |ウェブパフォーマンス|Etc|Japanese|<https://twitter.com/i/communities/1498089387422515202>|
 |ガジェット|Etc|Japanese|<https://twitter.com/i/communities/1498224086652121099>|
 |バンクーバー日本人ソフトウェアエンジニア|Etc|Japanese|<https://twitter.com/i/communities/1498574247895056384>|
