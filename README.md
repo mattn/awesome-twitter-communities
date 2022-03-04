@@ -39,6 +39,7 @@
 |Kubernetes & コンテナ技術|Container|Japanese|https://twitter.com/i/communities/1498974495989956614|
 |vyosjp|OS|Japanese|https://twitter.com/i/communities/1498101007733370880|
 |Security Engineering|Security|Japanese|https://twitter.com/i/communities/1498138021723467781|
+|Webセキュリティ|Security|Japanese|https://twitter.com/i/communities/1498053973097730048|
 |WebRTC|Communication technology|English|https://twitter.com/i/communities/1498133315164860419|
 |AWS|Cloud Infrastructure|English|https://twitter.com/i/communities/1471503983839567878|
 |OSS 日本語 L10n|Localization|Japanese|https://twitter.com/i/communities/1498961283546157061|
@@ -61,4 +62,3 @@
 |IE11を偲ぶ会|Etc|Japanese|https://twitter.com/i/communities/1498870842784043009|
 |Japan Okta User Group|Etc|Japanese|https://twitter.com/i/communities/1498432461839036418|
 |自作キーボード|Etc|Japanese|https://twitter.com/i/communities/1495468692813287425|
-|Webセキュリティ|Security|Japanese|https://twitter.com/i/communities/1498053973097730048|
