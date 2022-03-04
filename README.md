@@ -17,6 +17,7 @@
 |C++|Programming Language|Japanese|<https://twitter.com/i/communities/1499396722514345984>|
 |Deno-ja|Programming Language|Japanese|<https://twitter.com/i/communities/1498174921562013698>|
 |F# on Twitter|Programming Language|English|<https://twitter.com/i/communities/1493280005589196801>|
+|Java|Programming Language|English|<https://twitter.com/i/communities/1471178821906821122>|
 |Java|Programming Language|Japanese|<https://twitter.com/i/communities/1497219281079398402>|
 |Julia Programming Language|Programming Language|English|<https://twitter.com/i/communities/1441046367514755082>|
 |Julia言語|Programming Language|Japanese|<https://twitter.com/i/communities/1499390501467811845>|
@@ -33,6 +34,7 @@
 |プログラミング言語Go|Programming Language|Japanese|<https://twitter.com/i/communities/1498095077222400000>|
 |プログラミング言語Rust|Programming Language|Japanese|<https://twitter.com/i/communities/1498496039401451522>|
 |プログラミング言語処理系|Programming Language|Japanese|<https://twitter.com/i/communities/1499381283864342530>|
+|Spring Developers|Application Framework|English|<https://twitter.com/i/communities/1496544801533091844>|
 |Security Engineering|Security|Japanese|<https://twitter.com/i/communities/1498138021723467781>|
 |Webセキュリティ|Security|Japanese|<https://twitter.com/i/communities/1498053973097730048>|
 |VS Codeの会|Text Editor|Japanese|<https://twitter.com/i/communities/1498865559353511941>|
