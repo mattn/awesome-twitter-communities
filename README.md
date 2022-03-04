@@ -39,6 +39,7 @@
 |Kubernetes & コンテナ技術|Container|Japanese|https://twitter.com/i/communities/1498974495989956614|
 |vyosjp|OS|Japanese|https://twitter.com/i/communities/1498101007733370880|
 |Security Engineering|Security|Japanese|https://twitter.com/i/communities/1498138021723467781|
+|WebAssembly|Programming Language|English|https://twitter.com/i/communities/1497545442023944192|
 |Webセキュリティ|Security|Japanese|https://twitter.com/i/communities/1498053973097730048|
 |WebRTC|Communication technology|English|https://twitter.com/i/communities/1498133315164860419|
 |AWS|Cloud Infrastructure|English|https://twitter.com/i/communities/1471503983839567878|
