@@ -12,6 +12,7 @@
 |NewSQL_jp|Database|Japanese|<https://twitter.com/i/communities/1498603867285581824>|
 |自作DBMS友の会|Database|Japanese|<https://twitter.com/i/communities/1498114917672505344>|
 |OSS 日本語 L10n|Localization|Japanese|<https://twitter.com/i/communities/1498961283546157061>|
+|Linuxカーネル|OS|Japanese|<https://twitter.com/i/communities/1499543572189618176>|
 |vyosjp|OS|Japanese|<https://twitter.com/i/communities/1498101007733370880>|
 |.NET_Japan|Programming Language|Japanese|<https://twitter.com/i/communities/1496977662640009217>|
 |C++|Programming Language|Japanese|<https://twitter.com/i/communities/1499396722514345984>|
