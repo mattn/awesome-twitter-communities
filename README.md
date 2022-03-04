@@ -12,6 +12,7 @@
 |NewSQL_jp|Database|Japanese|<https://twitter.com/i/communities/1498603867285581824>|
 |自作DBMS友の会|Database|Japanese|<https://twitter.com/i/communities/1498114917672505344>|
 |OSS 日本語 L10n|Localization|Japanese|<https://twitter.com/i/communities/1498961283546157061>|
+|ネットワーク自動化|Networking|Japanese|<https://twitter.com/i/communities/1498540422154821633>|
 |Linuxカーネル|OS|Japanese|<https://twitter.com/i/communities/1499543572189618176>|
 |vyosjp|OS|Japanese|<https://twitter.com/i/communities/1498101007733370880>|
 |.NET_Japan|Programming Language|Japanese|<https://twitter.com/i/communities/1496977662640009217>|
@@ -67,4 +68,3 @@
 |日本のウェブフォームを良くする開発者の会|Etc|Japanese|<https://twitter.com/i/communities/1498168121336614916>|
 |自作キーボード|Etc|Japanese|<https://twitter.com/i/communities/1495468692813287425>|
 |鹿児島ITエンジニア|Etc|Japanese|<https://twitter.com/i/communities/1496763936682954752>|
-|ネットワーク自動化|Etc|Japanese|<https://twitter.com/i/communities/1498540422154821633>|
