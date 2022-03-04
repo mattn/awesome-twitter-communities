@@ -4,6 +4,7 @@
 
 |Name|Category|Language|URL|
 |-|-|-|-|
+|Spring Developers|Application Framework|English|<https://twitter.com/i/communities/1496544801533091844>|
 |AWS|Cloud Infrastructure|English|<https://twitter.com/i/communities/1471503983839567878>|
 |WebRTC|Communication technology|English|<https://twitter.com/i/communities/1498133315164860419>|
 |Kubernetes|Container|English|<https://twitter.com/i/communities/1444745802383953921>|
@@ -31,10 +32,10 @@
 |elixir|Programming Language|English|<https://twitter.com/i/communities/1493287155942232066>|
 |elixir-jp|Programming Language|Japanese|<https://twitter.com/i/communities/1498232167864082435>|
 |ruby-jp|Programming Language|Japanese|<https://twitter.com/i/communities/1496768365683408900>|
+|サバイバルTypeScript|Programming Language|Japanese|<https://twitter.com/i/communities/1499723154956390401>|
 |プログラミング言語Go|Programming Language|Japanese|<https://twitter.com/i/communities/1498095077222400000>|
 |プログラミング言語Rust|Programming Language|Japanese|<https://twitter.com/i/communities/1498496039401451522>|
 |プログラミング言語処理系|Programming Language|Japanese|<https://twitter.com/i/communities/1499381283864342530>|
-|Spring Developers|Application Framework|English|<https://twitter.com/i/communities/1496544801533091844>|
 |Security Engineering|Security|Japanese|<https://twitter.com/i/communities/1498138021723467781>|
 |Webセキュリティ|Security|Japanese|<https://twitter.com/i/communities/1498053973097730048>|
 |VS Codeの会|Text Editor|Japanese|<https://twitter.com/i/communities/1498865559353511941>|
@@ -65,4 +66,3 @@
 |日本のウェブフォームを良くする開発者の会|Etc|Japanese|<https://twitter.com/i/communities/1498168121336614916>|
 |自作キーボード|Etc|Japanese|<https://twitter.com/i/communities/1495468692813287425>|
 |鹿児島ITエンジニア|Etc|Japanese|<https://twitter.com/i/communities/1496763936682954752>|
-|サバイバルTypeScript|Programming Language|Japanese|<https://twitter.com/i/communities/1499723154956390401>|
