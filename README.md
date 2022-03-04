@@ -43,7 +43,7 @@
 |AWS|Cloud Infrastructure|English|https://twitter.com/i/communities/1471503983839567878|
 |OSS 日本語 L10n|Localization|Japanese|https://twitter.com/i/communities/1498961283546157061|
 |Tech Twitter|Etc|English|https://twitter.com/i/communities/1472105760389668865|
-|Tech Twitter - Japan|Etc|Japan|https://twitter.com/i/communities/1494649689215737856|
+|Tech Twitter - Japan|Etc|Japanese|https://twitter.com/i/communities/1494649689215737856|
 |UdonCreatorCommunity|Etc|Japanese|https://twitter.com/i/communities/1497068375553765378|
 |日本のウェブフォームを良くする開発者の会|Etc|Japanese|https://twitter.com/i/communities/1498168121336614916|
 |吉祥寺.pm|Etc|Japanese|https://twitter.com/i/communities/1498106494989967363|
