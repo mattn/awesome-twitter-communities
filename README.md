@@ -61,3 +61,4 @@
 |IE11を偲ぶ会|Etc|Japanese|https://twitter.com/i/communities/1498870842784043009|
 |Japan Okta User Group|Etc|Japanese|https://twitter.com/i/communities/1498432461839036418|
 |自作キーボード|Etc|Japanese|https://twitter.com/i/communities/1495468692813287425|
+|Webセキュリティ|Security|Japanese|https://twitter.com/i/communities/1498053973097730048|
