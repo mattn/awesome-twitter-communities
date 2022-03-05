@@ -29,6 +29,7 @@
 |The Go Programming Language|Programming Language|English|<https://twitter.com/i/communities/1493637136502960134>|
 |TypeScript|Programming Language|Japanese|<https://twitter.com/i/communities/1499329858178289664>|
 |WebAssembly|Programming Language|English|<https://twitter.com/i/communities/1497545442023944192>|
+|Windows API|Programming Language|Japanese|<https://twitter.com/i/communities/1499876828076732416>|
 |clojure|Programming Language|English|<https://twitter.com/i/communities/1494013093059432451>|
 |dotnet|Programming Language|English|<https://twitter.com/i/communities/1488624124817666051>|
 |elixir|Programming Language|English|<https://twitter.com/i/communities/1493287155942232066>|
@@ -69,4 +70,3 @@
 |自作キーボード|Etc|Japanese|<https://twitter.com/i/communities/1495468692813287425>|
 |自宅サーバの会|Etc|Japanese|<https://twitter.com/i/communities/1498123338975092742>|
 |鹿児島ITエンジニア|Etc|Japanese|<https://twitter.com/i/communities/1496763936682954752>|
-|Windows API|Programming Language|Japanese|<https://twitter.com/i/communities/1499876828076732416>|
