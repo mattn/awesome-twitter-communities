@@ -23,7 +23,7 @@
 |Deno-ja|Programming Language|Japanese|<https://twitter.com/i/communities/1498174921562013698>|
 |F# on Twitter|Programming Language|English|<https://twitter.com/i/communities/1493280005589196801>|
 |Java|Programming Language|English|<https://twitter.com/i/communities/1471178821906821122>|
-|Java|Programming Language|Japanese|<https://twitter.com/i/communities/1497219281079398402>|
+|Java🇯🇵|Programming Language|Japanese|<https://twitter.com/i/communities/1497219281079398402>|
 |Julia Programming Language|Programming Language|English|<https://twitter.com/i/communities/1441046367514755082>|
 |Julia言語|Programming Language|Japanese|<https://twitter.com/i/communities/1499390501467811845>|
 |PHP-ja|Programming Language|Japanese|<https://twitter.com/i/communities/1497741277789835264>|
