@@ -7,6 +7,7 @@
 |AWS|Cloud Infrastructure|English|<https://twitter.com/i/communities/1471503983839567878>|
 |AWS初心者あつまれ〜！！|Cloud Infrastructure|Japanese|<https://twitter.com/i/communities/1500046778749825028>|
 |WebRTC|Communication technology|English|<https://twitter.com/i/communities/1498133315164860419>|
+|競技プログラミング|Competition|Japanese|<https://twitter.com/i/communities/1499376689901572096>|
 |Kubernetes|Container|English|<https://twitter.com/i/communities/1444745802383953921>|
 |Kubernetes & コンテナ技術|Container|Japanese|<https://twitter.com/i/communities/1498974495989956614>|
 |MySQL-JP|Database|Japanese|<https://twitter.com/i/communities/1496795585982382084>|
@@ -21,8 +22,8 @@
 |C++|Programming Language|Japanese|<https://twitter.com/i/communities/1499396722514345984>|
 |Deno-ja|Programming Language|Japanese|<https://twitter.com/i/communities/1498174921562013698>|
 |F# on Twitter|Programming Language|English|<https://twitter.com/i/communities/1493280005589196801>|
-|Java|Programming Language|Japanese|<https://twitter.com/i/communities/1497219281079398402>|
 |Java|Programming Language|English|<https://twitter.com/i/communities/1471178821906821122>|
+|Java|Programming Language|Japanese|<https://twitter.com/i/communities/1497219281079398402>|
 |Julia Programming Language|Programming Language|English|<https://twitter.com/i/communities/1441046367514755082>|
 |Julia言語|Programming Language|Japanese|<https://twitter.com/i/communities/1499390501467811845>|
 |PHP-ja|Programming Language|Japanese|<https://twitter.com/i/communities/1497741277789835264>|
@@ -54,7 +55,6 @@
 |Spring Developers|Tools/Libraries|English|<https://twitter.com/i/communities/1496544801533091844>|
 |Svelte日本|Tools/Libraries|Japanese|<https://twitter.com/i/communities/1499182207491260424>|
 |sudo-jp|Tools/Libraries|Japanese|<https://twitter.com/i/communities/1499227044982374401>|
-|競技プログラミング|Competition|Japanese|<https://twitter.com/i/communities/1499376689901572096>|
 |DATA Saber|Etc|Japanese|<https://twitter.com/i/communities/1498660583415361536>|
 |IE11を偲ぶ会|Etc|Japanese|<https://twitter.com/i/communities/1498870842784043009>|
 |ITエンジニアを褒める会|Etc|Japanese|<https://twitter.com/i/communities/1494319842585083906>|
