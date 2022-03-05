@@ -54,7 +54,7 @@
 |Spring Developers|Tools/Libraries|English|<https://twitter.com/i/communities/1496544801533091844>|
 |Svelte日本|Tools/Libraries|Japanese|<https://twitter.com/i/communities/1499182207491260424>|
 |sudo-jp|Tools/Libraries|Japanese|<https://twitter.com/i/communities/1499227044982374401>|
-|競技プログラミング|Algorithm|Japanese|<https://twitter.com/i/communities/1499376689901572096>|
+|競技プログラミング|Competition|Japanese|<https://twitter.com/i/communities/1499376689901572096>|
 |DATA Saber|Etc|Japanese|<https://twitter.com/i/communities/1498660583415361536>|
 |IE11を偲ぶ会|Etc|Japanese|<https://twitter.com/i/communities/1498870842784043009>|
 |ITエンジニアを褒める会|Etc|Japanese|<https://twitter.com/i/communities/1494319842585083906>|
