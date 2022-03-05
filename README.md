@@ -5,6 +5,7 @@
 |Name|Category|Language|URL|
 |-|-|-|-|
 |AWS|Cloud Infrastructure|English|<https://twitter.com/i/communities/1471503983839567878>|
+|AWS初心者あつまれ〜！！|Cloud Infrastructure|Japanese|<https://twitter.com/i/communities/1500046778749825028>|
 |WebRTC|Communication technology|English|<https://twitter.com/i/communities/1498133315164860419>|
 |Kubernetes|Container|English|<https://twitter.com/i/communities/1444745802383953921>|
 |Kubernetes & コンテナ技術|Container|Japanese|<https://twitter.com/i/communities/1498974495989956614>|
@@ -26,6 +27,7 @@
 |Julia言語|Programming Language|Japanese|<https://twitter.com/i/communities/1499390501467811845>|
 |PHP-ja|Programming Language|Japanese|<https://twitter.com/i/communities/1497741277789835264>|
 |Pythonジャパン|Programming Language|Japanese|<https://twitter.com/i/communities/1498184748728205315>|
+|Scala JP|Programming Language|Japanese|<https://twitter.com/i/communities/1500072882822868998>|
 |The Go Programming Language|Programming Language|English|<https://twitter.com/i/communities/1493637136502960134>|
 |TypeScript|Programming Language|Japanese|<https://twitter.com/i/communities/1499329858178289664>|
 |WebAssembly|Programming Language|English|<https://twitter.com/i/communities/1497545442023944192>|
@@ -49,7 +51,6 @@
 |Jotai Friends JP|Tools/Libraries|Japanese|<https://twitter.com/i/communities/1497150937806213120>|
 |Nuxt|Tools/Libraries|English|<https://twitter.com/i/communities/1498235047194808320>|
 |SATySFi|Tools/Libraries|Japanese|<https://twitter.com/i/communities/1498074334619123712>|
-|Scala JP|Programming Language|Japanese|<https://twitter.com/i/communities/1500072882822868998>|
 |Spring Developers|Tools/Libraries|English|<https://twitter.com/i/communities/1496544801533091844>|
 |Svelte日本|Tools/Libraries|Japanese|<https://twitter.com/i/communities/1499182207491260424>|
 |sudo-jp|Tools/Libraries|Japanese|<https://twitter.com/i/communities/1499227044982374401>|
@@ -71,4 +72,3 @@
 |自作キーボード|Etc|Japanese|<https://twitter.com/i/communities/1495468692813287425>|
 |自宅サーバの会|Etc|Japanese|<https://twitter.com/i/communities/1498123338975092742>|
 |鹿児島ITエンジニア|Etc|Japanese|<https://twitter.com/i/communities/1496763936682954752>|
-|AWS初心者あつまれ〜！！|Cloud Infrastructure|Japanese|<https://twitter.com/i/communities/1500046778749825028>|
