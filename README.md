@@ -49,6 +49,7 @@
 |Jotai Friends JP|Tools/Libraries|Japanese|<https://twitter.com/i/communities/1497150937806213120>|
 |Nuxt|Tools/Libraries|English|<https://twitter.com/i/communities/1498235047194808320>|
 |SATySFi|Tools/Libraries|Japanese|<https://twitter.com/i/communities/1498074334619123712>|
+|Scala JP|Programming Language|Japanese|<https://twitter.com/i/communities/1500072882822868998>|
 |Spring Developers|Tools/Libraries|English|<https://twitter.com/i/communities/1496544801533091844>|
 |Svelte日本|Tools/Libraries|Japanese|<https://twitter.com/i/communities/1499182207491260424>|
 |sudo-jp|Tools/Libraries|Japanese|<https://twitter.com/i/communities/1499227044982374401>|
