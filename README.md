@@ -19,6 +19,7 @@
 |Linuxカーネル|OS|Japanese|<https://twitter.com/i/communities/1499543572189618176>|
 |vyosjp|OS|Japanese|<https://twitter.com/i/communities/1498101007733370880>|
 |.NET_Japan|Programming Language|Japanese|<https://twitter.com/i/communities/1496977662640009217>|
+|Angular|Programming Language|Engulish|<https://twitter.com/i/communities/1494742255952928778>|
 |C++|Programming Language|Japanese|<https://twitter.com/i/communities/1499396722514345984>|
 |Deno-ja|Programming Language|Japanese|<https://twitter.com/i/communities/1498174921562013698>|
 |F# on Twitter|Programming Language|English|<https://twitter.com/i/communities/1493280005589196801>|
@@ -29,6 +30,7 @@
 |PHP-ja|Programming Language|Japanese|<https://twitter.com/i/communities/1497741277789835264>|
 |Pythonジャパン|Programming Language|Japanese|<https://twitter.com/i/communities/1498184748728205315>|
 |Rust Programming Language|Programming Language|English|<https://twitter.com/i/communities/1472230399355072517>|
+|RxJS|Programming Language|Engulish|<https://twitter.com/i/communities/1498044279243124744>|
 |Scala JP|Programming Language|Japanese|<https://twitter.com/i/communities/1500072882822868998>|
 |The Go Programming Language|Programming Language|English|<https://twitter.com/i/communities/1493637136502960134>|
 |TypeScript|Programming Language|Japanese|<https://twitter.com/i/communities/1499329858178289664>|
@@ -57,6 +59,7 @@
 |Svelte日本|Tools/Libraries|Japanese|<https://twitter.com/i/communities/1499182207491260424>|
 |sudo-jp|Tools/Libraries|Japanese|<https://twitter.com/i/communities/1499227044982374401>|
 |DATA Saber|Etc|Japanese|<https://twitter.com/i/communities/1498660583415361536>|
+|DevReljp|Etc|Japanese|<https://twitter.com/i/communities/1496608890439749632>|
 |IE11を偲ぶ会|Etc|Japanese|<https://twitter.com/i/communities/1498870842784043009>|
 |ITエンジニアを褒める会|Etc|Japanese|<https://twitter.com/i/communities/1494319842585083906>|
 |JMUG|Etc|Japanese|<https://twitter.com/i/communities/1498585537527320577>|
@@ -67,6 +70,7 @@
 |Twitter Developers Japan|Etc|Japanese|<https://twitter.com/i/communities/1493041080077795328>|
 |UX & Product Design|Etc|English|<https://twitter.com/i/communities/1491390550351745025>|
 |UdonCreatorCommunity|Etc|Japanese|<https://twitter.com/i/communities/1497068375553765378>|
+|kintone界隈|Etc|Japanese|<https://twitter.com/i/communities/1498437194251341824>|
 |ウェブパフォーマンス|Etc|Japanese|<https://twitter.com/i/communities/1498089387422515202>|
 |ガジェット|Etc|Japanese|<https://twitter.com/i/communities/1498224086652121099>|
 |バンクーバー日本人ソフトウェアエンジニア|Etc|Japanese|<https://twitter.com/i/communities/1498574247895056384>|
@@ -76,7 +80,3 @@
 |自作キーボード|Etc|Japanese|<https://twitter.com/i/communities/1495468692813287425>|
 |自宅サーバの会|Etc|Japanese|<https://twitter.com/i/communities/1498123338975092742>|
 |鹿児島ITエンジニア|Etc|Japanese|<https://twitter.com/i/communities/1496763936682954752>|
-|Angular|Programming Language|Engulish|<https://twitter.com/i/communities/1494742255952928778>|
-|RxJS|Programming Language|Engulish|<https://twitter.com/i/communities/1498044279243124744>|
-|DevReljp|Etc|Japanese|<https://twitter.com/i/communities/1496608890439749632>|
-|kintone界隈|Etc|Japanese|<https://twitter.com/i/communities/1498437194251341824>|
