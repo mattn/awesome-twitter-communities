@@ -4,6 +4,7 @@
 
 |Name|Category|Language|URL|
 |-|-|-|-|
+| UX & Product Design | Etc | English | <https://twitter.com/i/communities/1491390550351745025> |
 |AWS|Cloud Infrastructure|English|<https://twitter.com/i/communities/1471503983839567878>|
 |AWS初心者あつまれ〜！！|Cloud Infrastructure|Japanese|<https://twitter.com/i/communities/1500046778749825028>|
 |WebRTC|Communication technology|English|<https://twitter.com/i/communities/1498133315164860419>|
@@ -28,6 +29,7 @@
 |Julia言語|Programming Language|Japanese|<https://twitter.com/i/communities/1499390501467811845>|
 |PHP-ja|Programming Language|Japanese|<https://twitter.com/i/communities/1497741277789835264>|
 |Pythonジャパン|Programming Language|Japanese|<https://twitter.com/i/communities/1498184748728205315>|
+|Rust Programming Language|Programming Language|English|<https://twitter.com/i/communities/1472230399355072517>|
 |Scala JP|Programming Language|Japanese|<https://twitter.com/i/communities/1500072882822868998>|
 |The Go Programming Language|Programming Language|English|<https://twitter.com/i/communities/1493637136502960134>|
 |TypeScript|Programming Language|Japanese|<https://twitter.com/i/communities/1499329858178289664>|
@@ -74,4 +76,3 @@
 |自作キーボード|Etc|Japanese|<https://twitter.com/i/communities/1495468692813287425>|
 |自宅サーバの会|Etc|Japanese|<https://twitter.com/i/communities/1498123338975092742>|
 |鹿児島ITエンジニア|Etc|Japanese|<https://twitter.com/i/communities/1496763936682954752>|
-| UX & Product Design | Etc | English | <https://twitter.com/i/communities/1491390550351745025> |
