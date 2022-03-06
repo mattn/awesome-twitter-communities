@@ -4,7 +4,6 @@
 
 |Name|Category|Language|URL|
 |-|-|-|-|
-| UX & Product Design | Etc | English | <https://twitter.com/i/communities/1491390550351745025> |
 |AWS|Cloud Infrastructure|English|<https://twitter.com/i/communities/1471503983839567878>|
 |AWS初心者あつまれ〜！！|Cloud Infrastructure|Japanese|<https://twitter.com/i/communities/1500046778749825028>|
 |WebRTC|Communication technology|English|<https://twitter.com/i/communities/1498133315164860419>|
@@ -66,6 +65,7 @@
 |Tech Twitter|Etc|English|<https://twitter.com/i/communities/1472105760389668865>|
 |Tech Twitter - Japan|Etc|Japanese|<https://twitter.com/i/communities/1494649689215737856>|
 |Twitter Developers Japan|Etc|Japanese|<https://twitter.com/i/communities/1493041080077795328>|
+|UX & Product Design|Etc|English|<https://twitter.com/i/communities/1491390550351745025>|
 |UdonCreatorCommunity|Etc|Japanese|<https://twitter.com/i/communities/1497068375553765378>|
 |ウェブパフォーマンス|Etc|Japanese|<https://twitter.com/i/communities/1498089387422515202>|
 |ガジェット|Etc|Japanese|<https://twitter.com/i/communities/1498224086652121099>|
