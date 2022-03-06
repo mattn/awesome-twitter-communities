@@ -79,3 +79,4 @@
 |Angular|Programming Language|Engulish|<https://twitter.com/i/communities/1494742255952928778>|
 |RxJS|Programming Language|Engulish|<https://twitter.com/i/communities/1498044279243124744>|
 |DevReljp|Etc|Japanese|<https://twitter.com/i/communities/1496608890439749632>|
+|kintone界隈|Etc|Japanese|<https://twitter.com/i/communities/1498437194251341824>|
