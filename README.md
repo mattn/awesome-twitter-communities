@@ -76,3 +76,6 @@
 |自作キーボード|Etc|Japanese|<https://twitter.com/i/communities/1495468692813287425>|
 |自宅サーバの会|Etc|Japanese|<https://twitter.com/i/communities/1498123338975092742>|
 |鹿児島ITエンジニア|Etc|Japanese|<https://twitter.com/i/communities/1496763936682954752>|
+|Angular|Programming Language|Engulish|<https://twitter.com/i/communities/1494742255952928778>|
+|RxJS|Programming Language|Engulish|<https://twitter.com/i/communities/1498044279243124744>|
+|DevReljp|Etc|Japanese|<https://twitter.com/i/communities/1496608890439749632>|
