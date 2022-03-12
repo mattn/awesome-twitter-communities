@@ -62,6 +62,7 @@
 |sudo-jp|Tools/Libraries|Japanese|<https://twitter.com/i/communities/1499227044982374401>|
 |CHIRIMEN Open Hardware コミュニティ|Etc|Japanese|<https://twitter.com/i/communities/1500392782829359104>|
 |DATA Saber|Etc|Japanese|<https://twitter.com/i/communities/1498660583415361536>|
+|DBREJP|Etc|Japanese|<https://twitter.com/i/communities/1499038651833290756>|
 |DevReljp|Etc|Japanese|<https://twitter.com/i/communities/1496608890439749632>|
 |IE11を偲ぶ会|Etc|Japanese|<https://twitter.com/i/communities/1498870842784043009>|
 |ITエンジニアを褒める会|Etc|Japanese|<https://twitter.com/i/communities/1494319842585083906>|
