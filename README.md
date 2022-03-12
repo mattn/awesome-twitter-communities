@@ -83,6 +83,7 @@
 |自作キーボード|Etc|Japanese|<https://twitter.com/i/communities/1495468692813287425>|
 |自宅サーバの会|Etc|Japanese|<https://twitter.com/i/communities/1498123338975092742>|
 |鹿児島ITエンジニア|Etc|Japanese|<https://twitter.com/i/communities/1496763936682954752>|
+|Gunma.web Twitter Community|Etc|Japanese|<https://twitter.com/i/communities/1502569231317356548>|
 
 ## Tips
 
