@@ -47,6 +47,7 @@
 |プログラミング言語Go|Programming Language|Japanese|<https://twitter.com/i/communities/1498095077222400000>|
 |プログラミング言語Rust|Programming Language|Japanese|<https://twitter.com/i/communities/1498496039401451522>|
 |プログラミング言語処理系|Programming Language|Japanese|<https://twitter.com/i/communities/1499381283864342530>|
+|動的型付け言語原理主義|Programming Language|Japanese|<https://twitter.com/i/communities/1499331487371776000>|
 |Security Engineering|Security|Japanese|<https://twitter.com/i/communities/1498138021723467781>|
 |Webセキュリティ|Security|Japanese|<https://twitter.com/i/communities/1498053973097730048>|
 |VS Codeの会|Text Editor|Japanese|<https://twitter.com/i/communities/1498865559353511941>|
