@@ -21,7 +21,7 @@
 |Linuxカーネル|OS|Japanese|<https://twitter.com/i/communities/1499543572189618176>|
 |vyosjp|OS|Japanese|<https://twitter.com/i/communities/1498101007733370880>|
 |.NET_Japan|Programming Language|Japanese|<https://twitter.com/i/communities/1496977662640009217>|
-|Angular|Programming Language|Engulish|<https://twitter.com/i/communities/1494742255952928778>|
+|Angular|Programming Language|English|<https://twitter.com/i/communities/1494742255952928778>|
 |C++|Programming Language|Japanese|<https://twitter.com/i/communities/1499396722514345984>|
 |Deno-ja|Programming Language|Japanese|<https://twitter.com/i/communities/1498174921562013698>|
 |F# on Twitter|Programming Language|English|<https://twitter.com/i/communities/1493280005589196801>|
@@ -32,7 +32,7 @@
 |PHP-ja|Programming Language|Japanese|<https://twitter.com/i/communities/1497741277789835264>|
 |Pythonジャパン|Programming Language|Japanese|<https://twitter.com/i/communities/1498184748728205315>|
 |Rust Programming Language|Programming Language|English|<https://twitter.com/i/communities/1472230399355072517>|
-|RxJS|Programming Language|Engulish|<https://twitter.com/i/communities/1498044279243124744>|
+|RxJS|Programming Language|English|<https://twitter.com/i/communities/1498044279243124744>|
 |Scala JP|Programming Language|Japanese|<https://twitter.com/i/communities/1500072882822868998>|
 |The Go Programming Language|Programming Language|English|<https://twitter.com/i/communities/1493637136502960134>|
 |TypeScript|Programming Language|Japanese|<https://twitter.com/i/communities/1499329858178289664>|
