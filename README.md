@@ -23,6 +23,7 @@
 |.NET_Japan|Programming Language|Japanese|<https://twitter.com/i/communities/1496977662640009217>|
 |Angular|Programming Language|English|<https://twitter.com/i/communities/1494742255952928778>|
 |C++|Programming Language|Japanese|<https://twitter.com/i/communities/1499396722514345984>|
+|Dart Programming Language|Programming Language|English|<https://twitter.com/i/communities/1518342418583932928>|
 |Deno-ja|Programming Language|Japanese|<https://twitter.com/i/communities/1498174921562013698>|
 |F# on Twitter|Programming Language|English|<https://twitter.com/i/communities/1493280005589196801>|
 |Java|Programming Language|English|<https://twitter.com/i/communities/1471178821906821122>|
