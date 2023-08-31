@@ -87,7 +87,8 @@
 |日本のウェブフォームを良くする開発者の会|Etc|Japanese|<https://twitter.com/i/communities/1498168121336614916>|
 |自作キーボード|Etc|Japanese|<https://twitter.com/i/communities/1495468692813287425>|
 |自宅サーバの会|Etc|Japanese|<https://twitter.com/i/communities/1498123338975092742>|
-|鹿児島ITエンジニア|Etc|Japanese|<https://twitter.com/i/communities/1496763936682954752>|
+|鹿児島ITエンジニア|Etc|Japanese|<https://twitter.com/i/communities/1496763936682954752>|  
+|WordPress Afrique Francophone|Tools/Libraries|French|<https://twitter.com/i/communities/1518352832826679296>|
 ## Tips
 
 How to find awesome twitter communities
